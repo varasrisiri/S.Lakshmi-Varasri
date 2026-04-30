@@ -27,22 +27,31 @@ Problem Solving • Debugging • Logical Thinking
 
 ## 📂 Projects
 
-### 🔹 Calculator App (Python)
-- Command-line calculator with basic operations  
-- Input validation and modular code structure  
-
-### 🔹 PyLab (In Progress 🚧)
-- Python learning platform for beginners  
-- Focused on simple explanations and structured learning
-
-### AI Agent Automation Platform (n8n + Gemini)
+### 🤖 AI Agent Automation Platform (n8n + Gemini)
 
 🔗 https://github.com/varasrisiri/Agentic-Automation-System-n8n
 
-Built an agentic AI system using n8n and Google Gemini API
-Implemented dynamic tool selection (weather & news APIs)
-Designed memory-enabled conversational workflow
-Enabled multi-step reasoning and real-time responses
+* Built an **agentic AI system** using n8n and Google Gemini API
+* Implemented **dynamic tool selection** (weather & news APIs)
+* Designed **memory-enabled conversational workflow**
+* Enabled **multi-step reasoning and real-time responses**
+
+---
+
+### 🧠 PyLab (In Progress)
+
+* Developing a **Python learning platform for beginners**
+* Focused on **structured explanations and guided learning**
+* Planned features: quizzes, examples, and practice modules
+
+---
+
+### 🧮 Calculator App (Python)
+
+* Built a **command-line calculator** with basic operations
+* Implemented **input validation and modular code structure**
+* Focused on clean logic and error handling
+
 
 ---
 
