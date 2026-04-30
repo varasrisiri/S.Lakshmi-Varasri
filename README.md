@@ -33,7 +33,16 @@ Problem Solving • Debugging • Logical Thinking
 
 ### 🔹 PyLab (In Progress 🚧)
 - Python learning platform for beginners  
-- Focused on simple explanations and structured learning  
+- Focused on simple explanations and structured learning
+
+### AI Agent Automation Platform (n8n + Gemini)
+
+🔗 View Project
+
+Built an agentic AI system using n8n and Google Gemini API
+Implemented dynamic tool selection (weather & news APIs)
+Designed memory-enabled conversational workflow
+Enabled multi-step reasoning and real-time responses
 
 ---
 
