@@ -18,7 +18,7 @@
 C • Python • Java • HTML • CSS  
 
 **Tools & Platforms:**  
-Git • GitHub • VS Code  
+Git • GitHub • VS Code • n8n (Workflow Automation) • REST APIs • Google Gemini API
 
 **Core Skills:**  
 Problem Solving • Debugging • Logical Thinking  
@@ -37,7 +37,7 @@ Problem Solving • Debugging • Logical Thinking
 
 ### AI Agent Automation Platform (n8n + Gemini)
 
-🔗 View Project
+🔗 https://github.com/varasrisiri/Agentic-Automation-System-n8n
 
 Built an agentic AI system using n8n and Google Gemini API
 Implemented dynamic tool selection (weather & news APIs)
